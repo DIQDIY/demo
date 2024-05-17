@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 #数据读取
-data = pd.read_csv(r"C:\Users\duanqi\Desktop\Telco Customer Churn\WA_Fn-UseC_-Telco-Customer-Churn.csv")
+data = pd.read_csv(r"...\WA_Fn-UseC_-Telco-Customer-Churn.csv")
 #数据信息显示
 print(data.info())
  #   Column            Non-Null Count  Dtype  
